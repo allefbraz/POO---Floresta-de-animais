@@ -5,6 +5,12 @@ Simulação interativa de uma floresta onde diferentes animais se movimentam, in
 
 ---
 
+## Link da apresentação Canva
+
+https://canva.link/bbkmbls2w45f49j
+
+---
+
 ## Descrição
 
 Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) em Python, utilizando uma simulação de um ecossistema simplificado.
